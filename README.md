@@ -18,3 +18,8 @@ History of Type
 - [History of Type 4](https://joshmccabe.github.io/john_baskerville_/history4.html)
 - [History of Type 5](https://joshmccabe.github.io/john_baskerville_/history5.html)
 - [History of Type 6](https://joshmccabe.github.io/john_baskerville_/history6.html)
+
+Extras
+======
+
+- [CSS Exercise](https://joshmccabe.github.io/john_baskerville_/CSS%20exercise.html) 
